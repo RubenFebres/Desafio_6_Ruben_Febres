@@ -3,7 +3,7 @@ body {
   padding: 0;
 }
 
-#Hero-Section {
+#Mi-perfil {
   background-image: url("../img/Ruben_fondo.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -15,4 +15,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
+}
+
+.information {
+  list-style: none;
 }
