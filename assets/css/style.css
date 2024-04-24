@@ -3,14 +3,15 @@ body {
   padding: 0;
 }
 
-#Mi-perfil {
+#Hero-Section {
   background-image: url("../img/Ruben_fondo.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: left;
+  height: 570px;
 }
 
-#Mis-trabajos .image-top {
+#Portafolio .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
