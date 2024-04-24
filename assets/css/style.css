@@ -2,3 +2,10 @@ body {
   margin: 0;
   padding: 0;
 }
+
+#Hero-Section {
+  background-image: url("../img/Ruben_fondo.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left;
+}
